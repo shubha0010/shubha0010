@@ -1,6 +1,5 @@
 # 💫 About Me:
-## About Me<br><br>I am a data science enthusiast focused on data analysis, visualization, and extracting meaningful insights from data. My work involves using Python and data science tools to explore datasets, identify patterns, and communicate results through clear visualizations.<br><br>I enjoy building practical projects that demonstrate real-world data analysis workflows, including data cleaning, exploratory data analysis, and visualization.<br><br>My goal is to continue developing my skills in data science and contribute to data-driven decision-making.
-
+## About Me<br><br>I am a data science enthusiast focused on data analysis, visualization, and extracting meaningful insights from data. My work involves using Python and data science tools to explore datasets, identify patterns, and communicate results through clear visualizations.<br><br>I enjoy building practical projects that demonstrate real-world data analysis workflows, including data cleaning, exploratory data analysis, and visualization.
  
 
 # 💻 Tech Stack:
